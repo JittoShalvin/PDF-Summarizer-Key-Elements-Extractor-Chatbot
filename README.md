@@ -1,4 +1,3 @@
-# PDF-Summarizer-Key-Elements-Extractor-Chatbot
 # PDF Summarizer, Key Elements Extractor & Chatbot
 
 This project is a Dash web application that allows users to upload PDF files and perform tasks such as summarizing topics, extracting key elements, and answering questions about the content using Cohere's AI models.
