@@ -11,7 +11,7 @@ This project is a Dash web application that allows users to upload PDF files and
 
 ## Demo
 
-![App Screenshot](screenshot.png)  <!-- Replace with an actual screenshot or link to the deployed site -->
+![App Screenshot](/images/app.png)  <!-- Replace with an actual screenshot or link to the deployed site -->
 
 ## Installation
 
