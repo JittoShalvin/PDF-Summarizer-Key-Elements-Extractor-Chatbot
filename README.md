@@ -9,6 +9,9 @@ This project is a Dash web application that allows users to upload PDF files and
 - **Key Elements Extraction:** Identifies and lists key elements or points in the text.
 - **Question Answering:** Allows users to ask questions about the PDF content and get answers based on the extracted text.
 
+## Demo
+
+![App Screenshot](screenshot.png)  <!-- Replace with an actual screenshot or link to the deployed site -->
 
 ## Installation
 
@@ -19,3 +22,4 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/pdf-summarizer-chatbot.git
    cd pdf-summarizer-chatbot
+
